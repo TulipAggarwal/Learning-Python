@@ -6,3 +6,7 @@ This is my basic guide to beginning and learinng python. The files in this repos
 -Taking Input from the user
 -Mini Project-1 : Creating a basic calculator
 -Mini Project-2 : Mad Libs Game
+-Lists
+-List functions
+-Tuples
+-Functions
