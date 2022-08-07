@@ -1,0 +1,5 @@
+A - Manager
+B - Trainer
+C - Receptionist
+D - Software Developer
+E - Engineer
