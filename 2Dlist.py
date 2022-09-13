@@ -10,7 +10,7 @@ number_grid = [
 ]
 print(number_grid[1][2]) #printing row 1 column 2 i.e, 6 (as the index start from zero)
 
-#Nested for loops and 2D lists together
+# Nested for loops and 2D lists together
 for row in number_grid:
     for col in row: #Reaching out to each and every elemenet in each and every row
         print(col)
