@@ -1,7 +1,6 @@
 #Learning how to make MCQ game in python using classes, loops and if conditions
 
 from ques import question
-
 question_prompts = [
     "What color are apples?\n(a) Red\n(b) Yellow\n(c) Black\n\n",
     "What color are Bananas?\n(a) Red\n(b) Yellow\n(c) Black\n\n",
